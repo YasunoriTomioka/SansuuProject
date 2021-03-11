@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B4F2E923-90DF-26D6-F822-FE7B3F5D0759}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/KeisanScript.cs">
+    <Files>
+      <File FileName="Assets/KeisanScript.cs" Line="36" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sansuuProject-master1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="KeisanScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5f6007e5-cac1-4356-b439-3ad2d70e4ca5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
