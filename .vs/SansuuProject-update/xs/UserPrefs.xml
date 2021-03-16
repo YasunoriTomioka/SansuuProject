@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{530C04B5-18C2-7919-3682-80E9BA19DC35}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BallScript.cs">
+    <Files>
+      <File FileName="Assets/seikai/BallSeikaiScript.cs" Line="28" Column="29" />
+      <File FileName="Assets/Scripts/KeisanScript.cs" Line="35" Column="9" />
+      <File FileName="Assets/Scripts/BallScript.cs" Line="25" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SansuuProject-update" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BallScript.cs" selected="True" />
+              </Node>
+              <Node name="seikai" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="74d9fc4e-620b-4221-8491-bb9072759a31" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
